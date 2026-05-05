@@ -184,8 +184,8 @@ footer{
 }
 
 .sa li:hover{
-  background: #00ff88;
-  color: red;
+  background: red;
+  color: #000;
   transform: scale(1.1);
 }
 
